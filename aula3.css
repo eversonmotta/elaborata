@@ -1,0 +1,28 @@
+            h1 {
+                color:greenyellow
+            }
+
+            h3 { 
+                color: olive
+            }
+            /*seletor de classe */
+
+            .verde
+            { color:rgb(30, 224, 24)
+
+            }
+            .fundo {
+                background: purple;
+            }
+            h3 .fundo {
+                color: rgb(224, 89, 10);
+
+            }
+            .fundo h3 { color:red; }
+
+            /* selelciona pelo id*/
+            #tit4 {
+                color: indigo;
+
+            }
+
